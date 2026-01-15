@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+nltk
+torch
+transformers
+phonetics
+google-generativeai
+openpyxl
